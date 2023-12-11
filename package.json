@@ -1,0 +1,29 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "This is a node js study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenlanaa/Nodejsexample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express.js",
+    "introduction",
+    "to",
+    "nodejs"
+  ],
+  "author": "Lenlanny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenlanaa/Nodejsexample/issues"
+  },
+  "homepage": "https://github.com/lenlanaa/Nodejsexample#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
